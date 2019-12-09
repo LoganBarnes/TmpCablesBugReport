@@ -1,4 +1,5 @@
 # Shader feedback cables cannot be saved or copied.
+The longer explaination of [this](https://forum.cables.gl/t/shader-feedback-cables-cannot-be-saved-or-copied/736)
 
 ## Summary
 I've been using feeback loops in shaders to do some computation on the GPU before rendering. This is possible in cables and works wonderfully until I need to save/load or copy/paste the ops at which point the the feedback connections are not retained.
